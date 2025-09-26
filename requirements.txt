@@ -3,4 +3,5 @@ pandas
 scikit-learn
 numpy
 matplotlib==3.8.0
+seaborn==0.12.2
 
